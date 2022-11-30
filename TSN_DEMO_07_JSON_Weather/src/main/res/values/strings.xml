@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Практическая работа №7</string>
+    <string name="latitude">52.28</string>
+    <string name="longitude">76.97</string>
+    <string name="pm10">pm10</string>
+    <string name="загрузка_данных">загрузка данных…</string>
+    <string name="Обновить">ОБНОВИТЬ</string>
+</resources>

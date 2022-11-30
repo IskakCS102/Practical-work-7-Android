@@ -1,30 +1,4 @@
-# TSN_DEMO_07_JSON
-Технология JSON для работы с http
-
-_Простейший пример работы с JSON:_
-
-![Screenshot](screenshot1.png)
-
-![Screenshot](json1.jpg)
-
-![Screenshot](json2.jpg)
-
-![Screenshot](json3.jpg)
-
-![Screenshot](json4.jpg)
-
-
-_Пример получения погоды через JSON:_
-
-![Screenshot](screenshot2.png)
-
-![Screenshot](JSON_raw.jpg)
-
-![Screenshot](JSON_parsed.jpg)
-
-![Screenshot](JSON_Icon.jpg)
-
-![Screenshot](JSON_Code.jpg)
-
-
-https://www.youtube.com/watch?v=PEy03NVgx4o
+![Screenshot_20221130_215340](https://user-images.githubusercontent.com/90903338/204847006-344eae34-edb8-47f7-8724-c0909b4c22de.png) <br>
+Выводит широту, долготу, температуру, и дату. <br> 
+![Screenshot_20221130_215354](https://user-images.githubusercontent.com/90903338/204847011-69f4641b-c1c2-4bc0-8150-1008368ad895.png) <br>
+Все тоже самое в горизонтальном виде.
